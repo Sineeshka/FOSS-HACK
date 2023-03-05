@@ -7,7 +7,11 @@ The logged and registered user can upload his projects,the all after procedures 
 The use of NFT's would provide a transparent,secure and immutable way to monitor the ownership and transfer of carbon credits.The use of NFT's would also ensure that the owners of the carbon credits are able to track the progress of their carbon credits and that the credits remain securely stored.
 
 Timeline:
+
 Initial stage : Nothing
+
 Present stage : Front end completed
+
 Working : Able to login with necessary details and upload the projects.
+
 Not working : Back end is not done/completed.
